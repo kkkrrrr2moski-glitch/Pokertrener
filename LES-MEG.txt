@@ -1,0 +1,12 @@
+POKERTRENER SOM APP
+===================
+Dette er en "installerbar nettapp" (PWA). Den fungerer som en vanlig app på telefonen, med eget ikon, uten nettleserlinje og med spilling uten nett etter første gang.
+
+1) Legg mappen ut på en gratis nettside
+   Alle filene i denne zip-filen må ligge sammen på en nettside med https. Gratis alternativer er for eksempel Netlify, GitHub Pages og Cloudflare Pages. Du får en lenke, for eksempel https://pokertrener.eksempel.app
+
+2) Installer på telefonen (gjør dette på din telefon og på farens telefon)
+   iPhone (Safari): åpne lenken, trykk Del-ikonet, velg "Legg til på Hjem-skjerm".
+   Android (Chrome): åpne lenken, trykk menyen med tre prikker, velg "Installer app" eller "Legg til på startskjermen".
+
+Sjetonger, nivå og karriere lagres på hver telefon for seg. Hvis du oppdaterer filene senere, endre navnet V i sw.js (for eksempel til pokertrener-v2), så henter telefonene den nye versjonen.
